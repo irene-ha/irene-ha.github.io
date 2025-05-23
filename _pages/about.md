@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Yi Huang is a first year Ph.D student at the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-computer-science.html), [University of Sydney](https://www.sydney.edu.au/). She received a Bachelor of Engineering in Computer Science and Technology in 2021 from Southwest Jiaotong University, Chengdu, China. Then, she received a Master of Engineering in Electronic Information in 2024 from Southwest Jiaotong University, supervised by Prof. [Tao Deng](https://taodeng.github.io/). She is currently working towards the Ph.D degree in computer science in the University of Sydney, Sydney, Australia, supervised by [Prof. Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html) and [Prof. Lei Bi](http://lei.bi/).
+
+My research interests include computer vision, medical image analysis, multi-modal learning (MML), and large foundation models (LFM), with a focus on enhancing medical imaging through advanced deep learning techniques and integrating multi-modal data for improved diagnostic accuracy.
 
 A data-driven personal website
 ======
