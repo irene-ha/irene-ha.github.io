@@ -13,7 +13,8 @@ My research interests include computer vision, medical image analysis, multi-mod
 
 News
 ======
-
+* [01/2025] Start Ph.D in the BDLV lab
+* [06/2024] Got the Master of Engineering in Electronic Information degree
 
 
 
