@@ -11,54 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 09/2021 – 06/2024 Ph.D in Computer Science, School of Computer Science, The University of Sydney
+* 09/2021 – 06/2024 Master of Engineering in Electronic Information, School of Information Science and Technology, Southwest Jiaotong University
+* 09/2017 – 06/2021 Bachelor of Engineering in Computer Science and Technology, School of Computer Science and Artificial Intelligence, Southwest Jiaotong University
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Southwest Jiaotong University
+  * Teaching Assistant, Graduation projects for undergraduates, 01/2023 – 05/2023
+  * Freshman Assistant Counselor, 09/2019 – 09/2020
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  
+Awards
+======
+* National Scholarship, 2023
+* First Prize for "Datang Cup" New Generation ICT Competition for National University Students (Nation level), 2022
+* Third Prize for China Student Service Outsourcing Innovation and Entrepreneurship Competition (Nation level), 2020
+* First Prize for May Day Mathematical Contest in Modeling (Province Level), 2019
+* First-class Scholarship, Southwest Jiaotong University, 3 times                                            
+* Merit Student, Southwest Jiaotong University, 2022
+* Outstanding Graduate, Southwest Jiaotong University, 2021                                   
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
