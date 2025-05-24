@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 09/2021 – presnet
+* 01/2025 – presnet
 
    Ph.D in Computer Science, School of Computer Science, The University of Sydney
 * 09/2021 – 06/2024
