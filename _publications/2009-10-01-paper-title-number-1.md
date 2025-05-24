@@ -3,7 +3,7 @@ title: "Parallel Multi-Path Network for Ocular Disease Detection Inspired by Vis
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-09-01
 venue: 'IEEE Journal of Biomedical and Health Informatics'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
