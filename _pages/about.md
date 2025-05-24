@@ -7,14 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-Yi Huang is a first year Ph.D student at the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-computer-science.html), [University of Sydney](https://www.sydney.edu.au/). She received her Bachelor degree of Engineering in Computer Science and Technology in 2021 from Southwest Jiaotong University. Then, she received a Master degree of Engineering in Electronic Information in 2024 from Southwest Jiaotong University, supervised by Prof. [Tao Deng](https://taodeng.github.io/). She is currently working towards the Ph.D degree in computer science in the University of Sydney, Sydney, Australia, supervised by [Prof. Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html) and [Prof. Lei Bi](http://lei.bi/).
+Yi Huang is a first year Ph.D student at the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-computer-science.html), [the University of Sydney](https://www.sydney.edu.au/), supervised by [Prof. Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html) and [Prof. Lei Bi](http://lei.bi/). She received a BE degree and a ME degree in 2021 and 2014 from Southwest Jiaotong University, Chengdu, China, supervised by Prof. [Tao Deng](https://taodeng.github.io/). She is currently working towards her Ph.D degree in computer science in the University of Sydney, Sydney, Australia, supported by [China Scholarship Council (CSC)](https://www.csc.edu.cn/).
 
-My research interests include computer vision, medical image analysis, multi-modal learning (MML), and large foundation models (LFM), with a focus on enhancing medical imaging through advanced deep learning techniques and integrating multi-modal data for improved diagnostic accuracy.
+Her research interests include computer vision, deep learning for medical image analysis, especially in medical image classification and image-based diagnosis/prognosis. Her research projects involve fundas image segmentation, multi-disease diagnosis as well as sequential image prediction.
 
 News
 ======
-* [01/2025] Start Ph.D in the [BDAV](https://bdavsydney.github.io/) lab
-* [06/2024] Got the Master degree of Engineering in Electronic Information
+* [01/2025] Start Ph.D in the [BDAV](https://bdavsydney.github.io/) lab, the University of Sydney
+* [09/2024] One paper is accepted by IEEE Journal of Biomedical and Health Informatics (JBHI)
+* [06/2024] Receive the Master degree of Engineering in Electronic Information 🎓
+* [05/2024] Be awarded the China Scholarship Council Scholarship 🇨🇳
+* [12/2023] Be awarded 2023 National Scholarship
+* [08/2023] One paper is accepted by Physics in Medicine and Biology (PMB)
+* [09/2022] One paper is accepted by 2022 14th International Conference on Wireless Communications and Signal Processing (WCSP)
 
 
 
