@@ -12,14 +12,11 @@ redirect_from:
 Education
 ======
 * 01/2025 – presnet
-
-   Ph.D in Computer Science, School of Computer Science, The University of Sydney
+  * Ph.D in Computer Science, School of Computer Science, The University of Sydney
 * 09/2021 – 06/2024
-
-  Master of Engineering in Electronic Information, School of Information Science and Technology, Southwest Jiaotong University
+  * Master of Engineering in Electronic Information, School of Information Science and Technology, Southwest Jiaotong University
 * 09/2017 – 06/2021
-
-  Bachelor of Engineering in Computer Science and Technology, School of Computer Science and Artificial Intelligence, Southwest Jiaotong University
+  * Bachelor of Engineering in Computer Science and Technology, School of Computer Science and Artificial Intelligence, Southwest Jiaotong University
 
 
 Work experience
