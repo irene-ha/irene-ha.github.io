@@ -3,7 +3,7 @@ title: "Parallel Multi-Path Network for Ocular Disease Detection Inspired by Vis
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'In this work, inspired by the human visual cognition mechanism, we propose a parallel multi-path network for multiple ocular diseases detection, called PMP-OD, which integrates the detection of multiple common ocular diseases, including cataracts, glaucoma, diabetic retinopathy, and pathological myopia.'
+excerpt: 'Various ocular diseases such as cataracts, glaucoma, and diabetic retinopathy have become several major factors causing non-congenital visual impairment, which seriously threatens people's vision health. The shortage of ophthalmic medical resources has brought huge obstacles to large-scale ocular disease screening. Therefore, it is necessary to use computer-aided diagnosis (CAD) technology to achieve large-scale screening and diagnosis of ocular diseases. In this work, inspired by the human visual cognition mechanism, we propose a parallel multi-path network for multiple ocular diseases detection, called PMP-OD, which integrates the detection of multiple common ocular diseases, including cataracts, glaucoma, diabetic retinopathy, and pathological myopia.'
 date: 2024-09-01
 venue: 'IEEE Journal of Biomedical and Health Informatics'
 paperurl: 'https://ieeexplore.ieee.org/document/10700995'
