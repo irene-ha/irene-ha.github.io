@@ -9,7 +9,7 @@ redirect_from:
 
 Yi Huang is a first year Ph.D student at the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-computer-science.html), [the University of Sydney](https://www.sydney.edu.au/), supervised by [Prof. Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html) and [Prof. Lei Bi](http://lei.bi/). She received a BE degree in 2021 and a ME degree in 2024 from Southwest Jiaotong University, Chengdu, China, supervised by Prof. [Tao Deng](https://taodeng.github.io/). She is currently working towards her Ph.D degree in computer science in the University of Sydney, Sydney, Australia, supported by [China Scholarship Council (CSC)](https://www.csc.edu.cn/).
 
-Her research interests include computer vision, deep learning for medical image analysis, especially in medical image classification and image-based diagnosis/prognosis. Her research projects involve fundas image segmentation and multi-disease diagnosis. Now, she is focused on medical sequential images prediction/analysis.
+Her research interests include computer vision, deep learning for medical image analysis, especially in medical image classification and image-based diagnosis/prognosis. Her research projects involve fundus image segmentation and multi-disease diagnosis. Now, she is focused on medical sequential images prediction/analysis.
 
 News
 ======
