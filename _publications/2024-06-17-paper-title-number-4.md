@@ -7,7 +7,7 @@ excerpt: 'Imaging is increasingly used for the diagnosis of retinal normality an
 date: 2021-11-12
 venue: 'The 16th International Conference on Bio-inspired Computing: Theories and Applications (BIC-TA 2021)'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-19-1253-5_20'
-citation: 'Deng, T., Huang, Y., Zhang, J. (2022). &quot;MLFF: Multiple Low Level Features Fusion Model for Retinal Vessel Segmentation.&quot; <i>2021 International Conference on Bio-Inspired Computing: Theories and Applications. (BIC-TA). <i>. pp. 271-281.'
+citation: 'Deng, T., Huang, Y., Zhang, J. (2022). &quot;MLFF: Multiple Low-Level Features Fusion Model for Retinal Vessel Segmentation.&quot; <i>2021 International Conference on Bio-Inspired Computing: Theories and Applications. (BIC-TA)<i>. pp. 271-281.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
